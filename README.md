@@ -6,7 +6,7 @@ This project uses `http://nflarrest.com/api/` and Wikipedia to display nfl arres
 
 * PostgreSQL database
 * npm 2.15.8
-* node 4.4.y
+* node 4.4.7
 
 ### Setup
 First Edit `src/config/config.json` to use the Postgre database.
