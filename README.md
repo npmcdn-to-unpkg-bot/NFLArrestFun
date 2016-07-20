@@ -28,3 +28,4 @@ Note: Not in order of priority
 * Check linting
 * Add data to compare player salaries
 * Add regression line to scatter plot
+* Destroy graph before rerendering component.
